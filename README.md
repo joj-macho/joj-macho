@@ -94,11 +94,10 @@ joj_macho.introduce()
 <img src="https://badges.pufler.dev/visits/joj-macho/joj-macho?color=black&logo=github">
 
 <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&count_private=true" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&count_private=true">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&layout=compact">
 </p>
-<p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&layout=compact" />
-</p>
+
 <!-- ![joj-macho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joj-macho&theme=gotham&hide_border=true) -->
 
 
