@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Joj Macho - A Pythonista and a Data Enthusiast.
+## Hi there 👋. I'm Joj Macho - A Pythonista and a Data Enthusiast.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -14,17 +14,18 @@ class JojMacho:
         self.languages = ["Python", "R", "JavaScript", "Bash"]
         self.interests = ["Machine Learning", "Data Visualization", "Software Development", "Web Development"]
         self.hobbies = ["Gaming", "Anime/Manga", "Problem-Solving", "Literature", "Technology"]
-        self.github = "https://github.com/jojmacho"
 
     def greet(self):
         print(f"Hello there! I'm {self.name}- a {self.role}.")
 
     def introduce(self):
         print(
-            f"I'm {self.name}, a {self.role}. I'm passionate about science and programming: exploring complex systems "
-            f"through modeling, simulation, and data analysis. Beyond coding, I enjoy anime, literature, and problem-solving. "
-            f"I create CLI/GUI/Web apps in Python and contribute to problem-solving on platforms like Codewars and Project Euler. "
-            f"My programming journey revolves around Python, from exploring science problems to game and application development. "
+            f"I'm {self.name}, a {self.role}. I'm passionate about science and programming; "
+            f"exploring complex systems through modeling, simulation, and data analysis. "
+            f"Beyond coding, I enjoy anime, literature, and problem-solving. "
+            f"I create CLI/GUI/Web apps in Python and contribute to problem-solving on platforms "
+            f"like Codewars and Project Euler. My programming journey revolves around Python, "
+            f"from exploring science problems to game and application development. "
             f"I enjoy Machine Learning and Data Science, especially computer vision and natural language processing. "
             f"I also enjoy literature, I read avidly and work on contributing through technical blogs and articles. "
             f"You'll find my work on GitHub, from simulations to games, and more. "
