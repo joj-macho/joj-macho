@@ -87,7 +87,7 @@ joj_macho.introduce()
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=plastic)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=plastic)
 
-
+<!-- 
 ## GitHub Stats 📈
 
 <img src="https://komarev.com/ghpvc/?username=joj-macho&style=plastic&label=Views">
@@ -97,7 +97,7 @@ joj_macho.introduce()
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&count_private=true">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joj-macho&theme=gotham&show_icons=true&hide_border=true&layout=compact">
 </p>
-
+ -->
 <!-- ![joj-macho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joj-macho&theme=gotham&hide_border=true) -->
 
 
